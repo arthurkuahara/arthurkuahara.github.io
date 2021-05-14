@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Arthur Veloso
 
-You can use the [editor on GitHub](https://github.com/arthurkuahara/arthurkuahara.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! My name is Arthur. I'm a student currently pursuing my Bachelor's degree in Computer Science at the Federal University of Minas Gerais (UFMG). My research interests include Data Science, Machine Learning, Algorithms and Finance.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can get in contact via my e-mail, arthurveloso@dcc.ufmg.br -  Click [here](mailto:arthurveloso@dcc.ufmg.br) to e-mail me.
 
-### Markdown
+### Research publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have contributed to the following publications throughout my academic career:
 
-```markdown
-Syntax highlighted code block
+ - 'Análise do debate sobre a Covid-19 no Twitter' (Analysis of the debate on COVID-19 on Twitter)
 
-# Header 1
-## Header 2
-### Header 3
+ - 'A expansão dos casos e óbitos por Covid-19 nos municípios brasileiros' (Expansion in cases and deaths by COVID-19 in Brazilian municipalities)
 
-- Bulleted
-- List
+ - 'Análise espacial dos casos de Covid-19 nas regiões imediatas do Brasil' (Spatial analysis of COVID-19 cases in Brazil's immediate regions)
+ 
+ - 'Da enfermidade econômica à pandemia do COVID-19: análise do comportamento da economia brasileira' (From economic disease to the COVID-19 pandemic : an analysis on the behaviour of Brazil's economy).
 
-1. Numbered
-2. List
+ - 'Correlações entre buscas na web e indicadores epidemiológicos da covid-19 no Brasil' (Correlations between web searches and COVID-19 epidemiologic indicators in Brazil).
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Professional Experience
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- **DCC - UFMG** - _Scientific Initiation Fellowship_ (2020-Present)
 
-### Jekyll Themes
+I'm under a fellowship grant for the COVID-19 Data Analytics project, where we measure and predict the behaviour of the COVID-19 spread in Brazil and the world, analyzing its impact in areas such as economy and social media.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arthurkuahara/arthurkuahara.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- **Thyssenkrupp** - _Summer Intern_ (2017)
 
-### Support or Contact
+Worked at Thyssenkrupp during my 2017 Summer Break, helping out in areas such as H.R, Logistics, I.T and Management.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+- **Immortals Gaming Club** - _Independent Translator_ (2016)
+
+Volunteering work with Immortals as a translator for their Social Media team, helping intermediate the contact between the then English-only speaking organization and the brazilian fans of the CS:GO roster they had just signed.
+
+
