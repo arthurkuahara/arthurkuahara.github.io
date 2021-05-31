@@ -1,4 +1,4 @@
-## Arthur Veloso
+## Arthur Veloso Kuahara
 
 Hi! My name is Arthur. I'm a student currently pursuing my Bachelor's degree in Computer Science at the Federal University of Minas Gerais (UFMG). My research interests include Data Science, Machine Learning, Algorithms and Finance.
 
