@@ -21,9 +21,13 @@ I have contributed to the following publications throughout my academic career:
 
 ### Professional Experience
 
-- **DCC - UFMG** - _Scientific Initiation Fellowship_ (2020-Present)
+- **Banco Inter** - _Market Intelligence Intern_ (2020-2021)
 
-I'm under a fellowship grant for the COVID-19 Data Analytics project, where we measure and predict the behaviour of the COVID-19 spread in Brazil and the world, analyzing its impact in areas such as economy and social media.
+Development of tools, creation and treatment of databases, performance analysis of the investment funds managed by Inter Asset, creation of reports to aid in the decision-making of the managers, participation in committees, etc.
+
+- **DCC - UFMG** - _Scientific Initiation Fellowship_ (2020-2021)
+
+Fellowship grant for the COVID-19 Data Analytics project, where we measured and predicted the behaviour of the COVID-19 spread in Brazil and the world, analyzing its impact in areas such as economy and social media.
 
 - **Thyssenkrupp** - _Summer Intern_ (2017)
 
