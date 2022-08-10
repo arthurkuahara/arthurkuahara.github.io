@@ -21,7 +21,7 @@ I have contributed to the following publications throughout my academic career:
 
 ### Professional Experience
 
-- **Banco Inter** - _Market Intelligence Intern_ (2020-2021)
+- **Banco Inter** - _Market Intelligence Intern_ (2021 -)
 
 Development of tools, creation and treatment of databases, performance analysis of the investment funds managed by Inter Asset, creation of reports to aid in the decision-making of the managers, participation in committees, etc.
 
